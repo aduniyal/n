@@ -1,2 +1,2 @@
 print("hello")
-peint("adu")
+print("adu")
